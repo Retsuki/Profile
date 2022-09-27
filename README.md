@@ -23,5 +23,5 @@
 
 ### 経歴・プロダクトについて
 
--
--
+- 経歴： https://github.com/Retsuki/Profile/tree/main/career
+- プロダクト：https://github.com/Retsuki/Profile/tree/main/products
