@@ -4,7 +4,9 @@
 
 ### 概要
 
-銀行 API を活用した贈与アプリ
+銀行 API を活用した贈与アプリ（最優秀賞受賞）
+
+<img width="400" src="https://prcdn.freetls.fastly.net/release_image/34650/158/34650-158-807226bbf4407f70d07f6e5057dc9d45-816x544.jpg?format=jpeg&auto=webp&quality=85&width=1950&height=1350&fit=bounds" />
 
 ### 開発の動機
 
