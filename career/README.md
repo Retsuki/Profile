@@ -1,5 +1,10 @@
 # 経歴
 
+- [Scheeme 株式会社](https://github.com/Retsuki/Profile/tree/main/career#scheeme-%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%B3%E5%85%A5%E7%A4%BE)
+- [ココネ株式会社](https://github.com/Retsuki/Profile/tree/main/career#%E3%82%B3%E3%82%B3%E3%83%8D%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%B3)
+- [株式会社 Lightblue-Technology](https://github.com/Retsuki/Profile/tree/main/career#%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE-lightblue-technology%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%B3)
+- [東洋大学](https://github.com/Retsuki/Profile/tree/main/career#%E6%9D%B1%E6%B4%8B%E5%A4%A7%E5%AD%A6)
+
 ## Scheeme 株式会社（インターン=>入社）
 
 ### 期間
