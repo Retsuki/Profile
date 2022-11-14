@@ -1,5 +1,10 @@
 # 個人で開発してきたもの
 
+## 株式会社IME3のホームページ（自社）
+https://www.ime-3.com/
+<img width="400" alt="Screen Shot 2022-11-15 at 8 53 23" src="https://user-images.githubusercontent.com/30931666/201792440-6b3294e8-c59d-4f91-8700-903a01b94bce.png">
+
+
 ## 生前贈与アプリ
 
 ### 概要
