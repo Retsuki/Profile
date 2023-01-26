@@ -1,5 +1,6 @@
 # 経歴
 - [株式会社SOXAI](https://github.com/Retsuki/Profile/edit/main/career/README.md#%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BEsoxai)
+- [株式会社ゼスト](https://github.com/Retsuki/Profile/edit/main/career/README.md#%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%BC%E3%82%B9%E3%83%88)
 - [Scheeme 株式会社](https://github.com/Retsuki/Profile/tree/main/career#scheeme-%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%B3%E5%85%A5%E7%A4%BE)
 - [ココネ株式会社](https://github.com/Retsuki/Profile/tree/main/career#%E3%82%B3%E3%82%B3%E3%83%8D%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%B3)
 - [株式会社 Lightblue-Technology](https://github.com/Retsuki/Profile/tree/main/career#%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE-lightblue-technology%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%B3)
@@ -7,21 +8,31 @@
 
 ## 株式会社SOXAI
 
-### 期間
+**期間**
 
 2022/11 ～ 現在
 
-### 業務内容
+**業務内容**
 
-IoTデバイスとの連携システムをモバイルアプリを中心に開発中。
+IoTデバイスと連携するモバイルアプリを中心に開発中。
+
+## 株式会社ゼスト
+
+**期間**
+
+2021/11 〜 2022/07
+
+**業務内容**
+
+訪問看護・介護・診療の訪問スケジュール管理アプリの開発
 
 ## Scheeme 株式会社（インターン=>入社）
 
-### 期間
+**期間**
 
 2019/05 〜 現在
 
-### 業務内容
+**業務内容**
 
 補助金・融資支援サービスの構築
 
@@ -37,11 +48,11 @@ IoTデバイスとの連携システムをモバイルアプリを中心に開�
 
 ## ココネ株式会社（インターン）
 
-### 期間
+**期間**
 
 2019/10 〜 2022/03
 
-### 業務内容
+**業務内容**
 
 ラジオ配信アプリのユーザープロフィール画像のアップロード機能開発と CMS の作成
 
@@ -49,11 +60,11 @@ s3 署名 URL を使用したプロフのアップロード機能を構築。元
 
 ## 株式会社 Lightblue-Technology（インターン）
 
-### 期間
+**期間**
 
 2018/11 〜 2019/05
 
-### 業務内容
+**業務内容**
 
 中高生に向けてディープラーニングを説明するサイト制作
 
@@ -66,11 +77,11 @@ https://ledge.ai/2019-03-28-12658789775c9c8ecb620d1/
 
 ## 東洋大学
 
-### 期間
+**期間**
 
 2017/04 〜 2021/03
 
-### 学部・研究内容
+**学部・研究内容**
 
 情報連携学部・情報連携学科
 
