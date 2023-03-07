@@ -2,7 +2,7 @@
 
 ## 個人開発者のプロダクト共有コミュニティ「Woz Land」
 
-https://world-oz.xyz/about
+https://world-oz.xyz
 
 <img width="400" alt="Screenshot 2023-02-26 at 8 34 40" src="https://user-images.githubusercontent.com/30931666/221384423-13f5ac2e-4b73-4a5a-92b2-ff590e07312c.png">
 
