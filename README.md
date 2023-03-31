@@ -23,7 +23,7 @@
 ## 実は
 - [nuxt3ベータ版のコントリビューターです](https://github.com/nuxt/framework/pull/1108)
 
-### 経歴・プロダクトについて
+## 経歴・プロダクトについて
 
 - 経歴： https://github.com/Retsuki/Profile/tree/main/career
 - プロダクト：https://github.com/Retsuki/Profile/tree/main/products
