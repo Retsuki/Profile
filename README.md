@@ -13,7 +13,6 @@
 
 - 米一烈希 | Facebook https://www.facebook.com/profile.php?id=100007980480408
 - Retsuki Yoneichi | LinkedIn https://www.linkedin.com/in/retsuki-yoneichi-ab5408177/
-- R ちゃん | Twitter https://twitter.com/duz_mk
 
 ## 自己 PR
 
