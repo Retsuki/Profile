@@ -7,7 +7,7 @@
 | 生年月日 | 1998/11/18                           |
 | 出身     | 石川県                               |
 | 趣味     | アプリ開発・小説・ラジオ・漫画・映画 |
-| 会社     | [株式会社IME3](https://www.notion.so/IME3-4e77c502b80d4423957fdae5db14cadd) の代表やってます |
+| 会社     | [株式会社IME3](https://www.notion.so/IME3-4e77c502b80d4423957fdae5db14cadd) の代表取締役・CEO・CTO |
 
 ## 経歴・プロダクトについて
 
